@@ -7,7 +7,7 @@
     <ProjectGuid>{7392F27C-40BE-4248-8A06-CE91895EE11D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_01_TwoSum_Easy_</RootNamespace>
-    <AssemblyName>_01_TwoSum_Easy_</AssemblyName>
+    <AssemblyName>01_TwoSum%28Easy%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

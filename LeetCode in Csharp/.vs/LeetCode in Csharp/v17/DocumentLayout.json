@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{0AC4A4FB-1101-4D2F-BE57-037A1688AFFB}|09_PalindromeNumber_(Easy)\\09_PalindromeNumber_(Easy).csproj|solutionrelative:09_palindromenumber_(easy)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A5D01D4-431B-4AC2-B1DB-5290EF888EB4}|01_TwoSum_(Easy)\\01_TwoSum_(Easy).csproj|c:\\users\\ozlem goksun\\github\\codepractice\\leetcode in csharp\\01_twosum_(easy)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A5D01D4-431B-4AC2-B1DB-5290EF888EB4}|01_TwoSum_(Easy)\\01_TwoSum_(Easy).csproj|C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\LeetCode in Csharp\\01_twosum_(easy)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A5D01D4-431B-4AC2-B1DB-5290EF888EB4}|01_TwoSum_(Easy)\\01_TwoSum_(Easy).csproj|solutionrelative:01_twosum_(easy)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "09_PalindromeNumber_(Easy)\\Program.cs",
               "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\LeetCode in Csharp\\09_PalindromeNumber_(Easy)\\Program.cs",
               "RelativeToolTip": "09_PalindromeNumber_(Easy)\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T14:34:56.36Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "01_TwoSum_(Easy)\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T14:27:22.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T14:27:22.41Z"
             }
           ]
         }

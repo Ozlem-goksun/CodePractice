@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Abstraction
+{
+    public class EmailService
+    {
+        public void SendEmail()
+        {
+            System.Console.WriteLine("Sending email...");
+            Connect();
+            Authenticate();
+            Disconnected();
+        }
+
+        // ALL THE BELOW METHODS ARE PRIVATE -- THEY ARE NOT EXPOSED TO OTHER CLASSES. OTHER CLASSES JUST WANT TO SEND EMAILS, NO NEED FOR THEM TO SEE ALL THE COMPLEX DETAILS OF CONNECTING TO MAIL SERVER, AUTHENTICATING, DISCONNECTING.
+
+        private void Connect()
+        {
+            System.Console.WriteLine("Connecting to email server...");
+        }
+
+        private void Authenticate()
+        {
+            System.Console.WriteLine("Authenticating...");
+        }
+
+        private void Disconnected()
+        {
+            System.Console.WriteLine("Disconnecting...");
+        }
+
+    }
+}

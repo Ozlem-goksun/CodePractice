@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{076566B7-6287-4AAA-8F40-A6F443AD552E}|Encapsulation\\Encapsulation.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\encapsulation\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076566B7-6287-4AAA-8F40-A6F443AD552E}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06367C00-FA68-4C0F-93C7-30462FE38251}|Inheritance\\Inheritance.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06367C00-FA68-4C0F-93C7-30462FE38251}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076566B7-6287-4AAA-8F40-A6F443AD552E}|Encapsulation\\Encapsulation.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076566B7-6287-4AAA-8F40-A6F443AD552E}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06367C00-FA68-4C0F-93C7-30462FE38251}|Inheritance\\Inheritance.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\inheritance\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06367C00-FA68-4C0F-93C7-30462FE38251}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076566B7-6287-4AAA-8F40-A6F443AD552E}|Encapsulation\\Encapsulation.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\encapsulation\\badbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076566B7-6287-4AAA-8F40-A6F443AD552E}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\badbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06367C00-FA68-4C0F-93C7-30462FE38251}|Inheritance\\Inheritance.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\inheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06367C00-FA68-4C0F-93C7-30462FE38251}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06367C00-FA68-4C0F-93C7-30462FE38251}|Inheritance\\Inheritance.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\inheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06367C00-FA68-4C0F-93C7-30462FE38251}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Encapsulation\\BankAccount.cs",
-              "RelativeDocumentMoniker": "Encapsulation\\BankAccount.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Encapsulation\\BankAccount.cs",
-              "RelativeToolTip": "Encapsulation\\BankAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Inheritance\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Inheritance\\Vehicle.cs",
+              "RelativeToolTip": "Inheritance\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T10:58:34.932Z",
+              "WhenOpened": "2025-08-06T14:46:12.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Inheritance\\Car.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Car.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Inheritance\\Car.cs",
+              "RelativeToolTip": "Inheritance\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:45:07.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Encapsulation\\Program.cs",
-              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Encapsulation\\Program.cs",
-              "RelativeToolTip": "Encapsulation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Inheritance\\Bike.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Bike.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Inheritance\\Bike.cs",
+              "RelativeToolTip": "Inheritance\\Bike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:55:38.626Z"
+              "WhenOpened": "2025-08-06T14:44:45.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BadBankAccount.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Encapsulation\\BadBankAccount.cs",
-              "RelativeDocumentMoniker": "Encapsulation\\BadBankAccount.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Encapsulation\\BadBankAccount.cs",
-              "RelativeToolTip": "Encapsulation\\BadBankAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:58:41.066Z"
+              "WhenOpened": "2025-08-06T14:37:05.38Z",
+              "EditorCaption": ""
             }
           ]
         }

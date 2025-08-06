@@ -10,5 +10,6 @@ namespace Inheritance
     {
         public int NumberOfDoors { get; set; }
         public int NumberOfWheels { get; set; }
+
     }
 }

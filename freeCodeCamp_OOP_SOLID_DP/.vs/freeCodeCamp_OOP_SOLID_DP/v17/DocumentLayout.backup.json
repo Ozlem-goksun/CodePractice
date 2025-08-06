@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{076566B7-6287-4AAA-8F40-A6F443AD552E}|Encapsulation\\Encapsulation.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\encapsulation\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076566B7-6287-4AAA-8F40-A6F443AD552E}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076566B7-6287-4AAA-8F40-A6F443AD552E}|Encapsulation\\Encapsulation.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076566B7-6287-4AAA-8F40-A6F443AD552E}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076566B7-6287-4AAA-8F40-A6F443AD552E}|Encapsulation\\Encapsulation.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\encapsulation\\badbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076566B7-6287-4AAA-8F40-A6F443AD552E}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\badbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Encapsulation\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Encapsulation\\BankAccount.cs",
+              "RelativeToolTip": "Encapsulation\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:58:34.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:55:38.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BadBankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Encapsulation\\BadBankAccount.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\BadBankAccount.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Encapsulation\\BadBankAccount.cs",
+              "RelativeToolTip": "Encapsulation\\BadBankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:58:41.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

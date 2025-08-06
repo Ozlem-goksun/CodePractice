@@ -1,0 +1,15 @@
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\bin\Debug\net9.0\Encapsulation.exe
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\bin\Debug\net9.0\Encapsulation.deps.json
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\bin\Debug\net9.0\Encapsulation.runtimeconfig.json
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\bin\Debug\net9.0\Encapsulation.dll
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\bin\Debug\net9.0\Encapsulation.pdb
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\obj\Debug\net9.0\Encapsulation.sourcelink.json
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\obj\Debug\net9.0\Encapsulation.dll
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll

@@ -1,0 +1,15 @@
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\bin\Debug\net9.0\Inheritance.exe
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\bin\Debug\net9.0\Inheritance.deps.json
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\bin\Debug\net9.0\Inheritance.runtimeconfig.json
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\bin\Debug\net9.0\Inheritance.dll
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\bin\Debug\net9.0\Inheritance.pdb
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\obj\Debug\net9.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\obj\Debug\net9.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\obj\Debug\net9.0\Inheritance.AssemblyInfo.cs
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\obj\Debug\net9.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\obj\Debug\net9.0\Inheritance.sourcelink.json
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\obj\Debug\net9.0\Inheritance.dll
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\obj\Debug\net9.0\refint\Inheritance.dll
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\obj\Debug\net9.0\Inheritance.pdb
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\obj\Debug\net9.0\Inheritance.genruntimeconfig.cache
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Inheritance\obj\Debug\net9.0\ref\Inheritance.dll

@@ -12,12 +12,12 @@ namespace Inheritance
         public string Model { get; set; }
         public int Year { get; set; }
 
-        public void start()
+        public void Start()
         {
             Console.WriteLine("Vehicle is starting.");
         }
 
-        public void stop()
+        public void Stop()
         {
             Console.WriteLine("Vehicle is stoping.");
         }

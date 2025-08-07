@@ -1,0 +1,15 @@
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\bin\Debug\net9.0\SOLID_I.exe
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\bin\Debug\net9.0\SOLID_I.deps.json
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\bin\Debug\net9.0\SOLID_I.runtimeconfig.json
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\bin\Debug\net9.0\SOLID_I.dll
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\bin\Debug\net9.0\SOLID_I.pdb
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\obj\Debug\net9.0\SOLID_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\obj\Debug\net9.0\SOLID_I.AssemblyInfoInputs.cache
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\obj\Debug\net9.0\SOLID_I.AssemblyInfo.cs
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\obj\Debug\net9.0\SOLID_I.csproj.CoreCompileInputs.cache
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\obj\Debug\net9.0\SOLID_I.sourcelink.json
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\obj\Debug\net9.0\SOLID_I.dll
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\obj\Debug\net9.0\refint\SOLID_I.dll
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\obj\Debug\net9.0\SOLID_I.pdb
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\obj\Debug\net9.0\SOLID_I.genruntimeconfig.cache
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\SOLID_I\obj\Debug\net9.0\ref\SOLID_I.dll

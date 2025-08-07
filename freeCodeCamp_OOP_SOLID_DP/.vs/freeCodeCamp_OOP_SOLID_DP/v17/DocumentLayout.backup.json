@@ -3,48 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D2B3323-C610-467A-8834-FFDDF3F25553}|Composition\\Composition.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\composition\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D2B3323-C610-467A-8834-FFDDF3F25553}|Composition\\Composition.csproj|solutionrelative:composition\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA39185C-3C11-4CFC-9E22-69C66FDA39E2}|SOLID_L\\SOLID_L.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\solid_l\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA39185C-3C11-4CFC-9E22-69C66FDA39E2}|SOLID_L\\SOLID_L.csproj|solutionrelative:solid_l\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D2B3323-C610-467A-8834-FFDDF3F25553}|Composition\\Composition.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\composition\\chassis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D2B3323-C610-467A-8834-FFDDF3F25553}|Composition\\Composition.csproj|solutionrelative:composition\\chassis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA39185C-3C11-4CFC-9E22-69C66FDA39E2}|SOLID_L\\SOLID_L.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\solid_l\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA39185C-3C11-4CFC-9E22-69C66FDA39E2}|SOLID_L\\SOLID_L.csproj|solutionrelative:solid_l\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D2B3323-C610-467A-8834-FFDDF3F25553}|Composition\\Composition.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\composition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D2B3323-C610-467A-8834-FFDDF3F25553}|Composition\\Composition.csproj|solutionrelative:composition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA39185C-3C11-4CFC-9E22-69C66FDA39E2}|SOLID_L\\SOLID_L.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\solid_l\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA39185C-3C11-4CFC-9E22-69C66FDA39E2}|SOLID_L\\SOLID_L.csproj|solutionrelative:solid_l\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D2B3323-C610-467A-8834-FFDDF3F25553}|Composition\\Composition.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\composition\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D2B3323-C610-467A-8834-FFDDF3F25553}|Composition\\Composition.csproj|solutionrelative:composition\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA39185C-3C11-4CFC-9E22-69C66FDA39E2}|SOLID_L\\SOLID_L.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\solid_l\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA39185C-3C11-4CFC-9E22-69C66FDA39E2}|SOLID_L\\SOLID_L.csproj|solutionrelative:solid_l\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D2B3323-C610-467A-8834-FFDDF3F25553}|Composition\\Composition.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\composition\\seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D2B3323-C610-467A-8834-FFDDF3F25553}|Composition\\Composition.csproj|solutionrelative:composition\\seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642A3ABF-763F-4A00-93F6-A6836F4CEBB9}|SOLID_S\\SOLID_S.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\solid_s\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642A3ABF-763F-4A00-93F6-A6836F4CEBB9}|SOLID_S\\SOLID_S.csproj|solutionrelative:solid_s\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D2B3323-C610-467A-8834-FFDDF3F25553}|Composition\\Composition.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\composition\\wheels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D2B3323-C610-467A-8834-FFDDF3F25553}|Composition\\Composition.csproj|solutionrelative:composition\\wheels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642A3ABF-763F-4A00-93F6-A6836F4CEBB9}|SOLID_S\\SOLID_S.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\solid_s\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642A3ABF-763F-4A00-93F6-A6836F4CEBB9}|SOLID_S\\SOLID_S.csproj|solutionrelative:solid_s\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}|Coupling\\Coupling.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\coupling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}|Coupling\\Coupling.csproj|solutionrelative:coupling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642A3ABF-763F-4A00-93F6-A6836F4CEBB9}|SOLID_S\\SOLID_S.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\solid_s\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642A3ABF-763F-4A00-93F6-A6836F4CEBB9}|SOLID_S\\SOLID_S.csproj|solutionrelative:solid_s\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}|Coupling\\Coupling.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\coupling\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}|Coupling\\Coupling.csproj|solutionrelative:coupling\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}|Coupling\\Coupling.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\coupling\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}|Coupling\\Coupling.csproj|solutionrelative:coupling\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}|Coupling\\Coupling.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\coupling\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}|Coupling\\Coupling.csproj|solutionrelative:coupling\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}|Coupling\\Coupling.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\coupling\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}|Coupling\\Coupling.csproj|solutionrelative:coupling\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642A3ABF-763F-4A00-93F6-A6836F4CEBB9}|SOLID_S\\SOLID_S.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\freecodecamp_oop_solid_dp\\solid_s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642A3ABF-763F-4A00-93F6-A6836F4CEBB9}|SOLID_S\\SOLID_S.csproj|solutionrelative:solid_s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,146 +42,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Seats.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Composition\\Seats.cs",
-              "RelativeDocumentMoniker": "Composition\\Seats.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Composition\\Seats.cs",
-              "RelativeToolTip": "Composition\\Seats.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T07:14:33.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Chassis.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Composition\\Chassis.cs",
-              "RelativeDocumentMoniker": "Composition\\Chassis.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Composition\\Chassis.cs",
-              "RelativeToolTip": "Composition\\Chassis.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_L\\Square.cs",
+              "RelativeDocumentMoniker": "SOLID_L\\Square.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_L\\Square.cs",
+              "RelativeToolTip": "SOLID_L\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T07:14:05.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Composition\\Car.cs",
-              "RelativeDocumentMoniker": "Composition\\Car.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Composition\\Car.cs",
-              "RelativeToolTip": "Composition\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T07:13:43.788Z",
+              "WhenOpened": "2025-08-07T13:44:42.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Composition\\Engine.cs",
-              "RelativeDocumentMoniker": "Composition\\Engine.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Composition\\Engine.cs",
-              "RelativeToolTip": "Composition\\Engine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_L\\Rectangle.cs",
+              "RelativeDocumentMoniker": "SOLID_L\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_L\\Rectangle.cs",
+              "RelativeToolTip": "SOLID_L\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T07:12:59.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T13:35:46.413Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_L\\Shape.cs",
+              "RelativeDocumentMoniker": "SOLID_L\\Shape.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_L\\Shape.cs",
+              "RelativeToolTip": "SOLID_L\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:29:34.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Composition\\Program.cs",
-              "RelativeDocumentMoniker": "Composition\\Program.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Composition\\Program.cs",
-              "RelativeToolTip": "Composition\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_L\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID_L\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_L\\Program.cs",
+              "RelativeToolTip": "SOLID_L\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T07:10:14.255Z",
+              "WhenOpened": "2025-08-07T12:56:29.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Wheels.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Composition\\Wheels.cs",
-              "RelativeDocumentMoniker": "Composition\\Wheels.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Composition\\Wheels.cs",
-              "RelativeToolTip": "Composition\\Wheels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_S\\UserService.cs",
+              "RelativeDocumentMoniker": "SOLID_S\\UserService.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_S\\UserService.cs",
+              "RelativeToolTip": "SOLID_S\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T07:14:58.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "INotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Coupling\\INotificationService.cs",
-              "RelativeDocumentMoniker": "Coupling\\INotificationService.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Coupling\\INotificationService.cs",
-              "RelativeToolTip": "Coupling\\INotificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T19:28:53.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Coupling\\Order.cs",
-              "RelativeDocumentMoniker": "Coupling\\Order.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Coupling\\Order.cs",
-              "RelativeToolTip": "Coupling\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T19:08:43.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Coupling\\EmailSender.cs",
-              "RelativeDocumentMoniker": "Coupling\\EmailSender.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Coupling\\EmailSender.cs",
-              "RelativeToolTip": "Coupling\\EmailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T19:02:14.039Z"
+              "WhenOpened": "2025-08-07T10:34:25.114Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Coupling\\Program.cs",
-              "RelativeDocumentMoniker": "Coupling\\Program.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Coupling\\Program.cs",
-              "RelativeToolTip": "Coupling\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_S\\EmailSender.cs",
+              "RelativeDocumentMoniker": "SOLID_S\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_S\\EmailSender.cs",
+              "RelativeToolTip": "SOLID_S\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T19:00:57.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T10:24:34.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_S\\User.cs",
+              "RelativeDocumentMoniker": "SOLID_S\\User.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_S\\User.cs",
+              "RelativeToolTip": "SOLID_S\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T08:57:24.886Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SmsSender.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Coupling\\SmsSender.cs",
-              "RelativeDocumentMoniker": "Coupling\\SmsSender.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\Coupling\\SmsSender.cs",
-              "RelativeToolTip": "Coupling\\SmsSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_S\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID_S\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\freeCodeCamp_OOP_SOLID_DP\\SOLID_S\\Program.cs",
+              "RelativeToolTip": "SOLID_S\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T19:55:30.163Z"
+              "WhenOpened": "2025-08-07T08:56:11.806Z"
             }
           ]
         }

@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{CCAD5128-5D0E-4915-A554-9743AA4561C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coupling", "Coupling\Coupling.csproj", "{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition", "Composition\Composition.csproj", "{3D2B3323-C610-467A-8834-FFDDF3F25553}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{CCAD5128-5D0E-4915-A554-9743AA4561C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCAD5128-5D0E-4915-A554-9743AA4561C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCAD5128-5D0E-4915-A554-9743AA4561C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697A3F04-8F7C-471E-A0D4-3C97E23BA5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2B3323-C610-467A-8834-FFDDF3F25553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2B3323-C610-467A-8834-FFDDF3F25553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2B3323-C610-467A-8834-FFDDF3F25553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2B3323-C610-467A-8834-FFDDF3F25553}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\bin\Debug\net9.0\Coupling.exe
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\bin\Debug\net9.0\Coupling.deps.json
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\bin\Debug\net9.0\Coupling.runtimeconfig.json
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\bin\Debug\net9.0\Coupling.dll
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\bin\Debug\net9.0\Coupling.pdb
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\obj\Debug\net9.0\Coupling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\obj\Debug\net9.0\Coupling.AssemblyInfoInputs.cache
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\obj\Debug\net9.0\Coupling.AssemblyInfo.cs
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\obj\Debug\net9.0\Coupling.csproj.CoreCompileInputs.cache
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\obj\Debug\net9.0\Coupling.sourcelink.json
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\obj\Debug\net9.0\Coupling.dll
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\obj\Debug\net9.0\refint\Coupling.dll
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\obj\Debug\net9.0\Coupling.pdb
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\obj\Debug\net9.0\Coupling.genruntimeconfig.cache
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\freeCodeCamp_OOP_SOLID_DP\Coupling\obj\Debug\net9.0\ref\Coupling.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D39925A-F6DD-45FF-B8F8-A126C09873A6}|Attempt1\\Attempt1.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\datastructuresincsharp\\attempt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D39925A-F6DD-45FF-B8F8-A126C09873A6}|Attempt1\\Attempt1.csproj|solutionrelative:attempt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1559203-9D9A-41CA-9F19-4B3A4913B905}|Attempt\\Attempt.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\datastructuresincsharp\\attempt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1559203-9D9A-41CA-9F19-4B3A4913B905}|Attempt\\Attempt.csproj|solutionrelative:attempt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\Attempt1\\Program.cs",
+              "RelativeDocumentMoniker": "Attempt1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\Attempt1\\Program.cs",
+              "RelativeToolTip": "Attempt1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:19:03.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\Attempt\\Program.cs",
+              "RelativeDocumentMoniker": "Attempt\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\Attempt\\Program.cs",
+              "RelativeToolTip": "Attempt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:10:14.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

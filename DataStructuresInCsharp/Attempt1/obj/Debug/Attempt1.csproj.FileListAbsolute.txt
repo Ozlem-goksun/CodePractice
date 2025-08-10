@@ -1,0 +1,8 @@
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\DataStructuresInCsharp\Attempt1\obj\Debug\Attempt1.csproj.AssemblyReference.cache
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\DataStructuresInCsharp\Attempt1\obj\Debug\Attempt1.csproj.CoreCompileInputs.cache
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\DataStructuresInCsharp\Attempt1\bin\Debug\Attempt1.exe.config
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\DataStructuresInCsharp\Attempt1\bin\Debug\Attempt1.exe
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\DataStructuresInCsharp\Attempt1\bin\Debug\Attempt1.pdb
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\DataStructuresInCsharp\Attempt1\obj\Debug\Attempt1.exe
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\DataStructuresInCsharp\Attempt1\obj\Debug\Attempt1.pdb
+C:\Users\Ozlem GOKSUN\GITHUB\CodePractice\DataStructuresInCsharp\Attempt1\obj\Debug\Attempt1.exe.config

@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{EFEDA2F4-FF0C-4249-9F56-EB443786CBD1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\Attempt1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Attempt1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\Attempt1\\Properties\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Attempt1\\Properties\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\Attempt\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Attempt\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFEDA2F4-FF0C-4249-9F56-EB443786CBD1}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\datastructuresincsharp\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEDA2F4-FF0C-4249-9F56-EB443786CBD1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,47 +26,25 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\ConsoleApp1\\Program.cs*",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAzAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T14:49:22.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\Attempt1\\Properties\\Program.cs",
-              "RelativeDocumentMoniker": "Attempt1\\Properties\\Program.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\Attempt1\\Properties\\Program.cs",
-              "RelativeToolTip": "Attempt1\\Properties\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T14:46:11.63Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\Attempt1\\Program.cs",
-              "RelativeDocumentMoniker": "Attempt1\\Program.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\Attempt1\\Program.cs",
-              "RelativeToolTip": "Attempt1\\Program.cs",
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\ConsoleApp1\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Student.cs",
+              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\ConsoleApp1\\Student.cs",
+              "RelativeToolTip": "ConsoleApp1\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T15:19:03.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\Attempt\\Program.cs",
-              "RelativeDocumentMoniker": "Attempt\\Program.cs",
-              "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\Attempt\\Program.cs",
-              "RelativeToolTip": "Attempt\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T15:10:14.521Z"
+              "WhenOpened": "2025-08-16T13:52:03.201Z",
+              "EditorCaption": ""
             }
           ]
         }

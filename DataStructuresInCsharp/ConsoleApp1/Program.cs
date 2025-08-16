@@ -7,34 +7,24 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Program
+
+    public class Program
     {
         static void Main(string[] args)
         {
-            var cities = new List<string>
+
+            var stdList = new List<Student>()
             {
-                "New York",
-                "Los Angeles",
-                "Texas",
-                "Paris"
+
+                new Student("Joe", "Lion", 8645, false),
+                new Student("Hailey", "Tiger", 8646, true),
+                new Student("Steve", "Johnsan",8456, false)
+
             };
-
-            // Lambda Expression
-            cities.ForEach(city => Console.WriteLine(city));
-
-            Console.WriteLine(new string('-', 13));
-
-            var iller = cities;
-            iller.ForEach(city => Console.WriteLine(city));
-            Console.WriteLine(new string('-', 13));
-            cities.Add("İstanbul");
-            cities.ForEach(city => Console.WriteLine(city));
-            Console.WriteLine(new string('-', 13));
-            iller.ForEach(city => Console.WriteLine(city));
-
-            iller.Remove("İstanbul");
-            Console.WriteLine(new string('-', 13));
-            cities.ForEach(city => Console.WriteLine(city));
+            foreach (Student item in stdList)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }

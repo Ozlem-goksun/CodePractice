@@ -11,9 +11,30 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
-            var cities = new Hashtable();
+            Console.WriteLine("Baslik giriniz : ");
+            string baslik = Console.ReadLine();
 
+            baslik = baslik.ToLower();
 
+            var karakterSeti = new Hashtable()
+            {
+                {'ç','c'},
+                {'ı','i'},
+                {'ğ','g'},
+                {'ö','o'},
+                {'ş','s'},
+                {'ü','u'},
+                {' ','-'},
+                {'\'','-'},
+                {',','-'}
+
+            };
+
+            foreach (DictionaryEntry item in karakterSeti)
+            {
+                baslik = baslik.Replace((char)item.Key, (char)item.Value);
+            }
+            Console.WriteLine(baslik);
 
         }
     }

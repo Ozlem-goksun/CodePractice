@@ -11,21 +11,24 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
-            var icindekiler = new SortedList()
-            {
-                {5, "Bolum bir"},
-                {23, "Bolum iki"},
-                {58, "Bolum dort"},
-                {89, "Bolum bes"}
+            Console.WriteLine("Lutfen bir sayi giriniz : ");
+            int sayi = int.Parse(Console.ReadLine());
 
-            };
+            var numStack = new Stack<int>();
 
-            Console.WriteLine("icindekiler");
-            Console.WriteLine(new string('=',23));
-            foreach ( DictionaryEntry i in icindekiler)
+            while (sayi > 0)
             {
-                Console.WriteLine($"{i.Key, -5}{i.Value}");
+                int k = sayi % 10;
+                numStack.Push(k);
+                sayi = sayi / 10;
             }
+
+            foreach (var item in numStack)
+            {
+                Console.Write(item);
+            }
+
+
         }
     }
 }

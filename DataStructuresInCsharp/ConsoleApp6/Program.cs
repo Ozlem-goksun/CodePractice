@@ -19,10 +19,28 @@ namespace ConsoleApp6
             cities.AddBefore(cities.First.Next.Next, "Giresun");
             cities.AddAfter(cities.Last.Previous, "Sinop");
 
-            foreach (string s in cities)
+            Console.WriteLine("Gidis Guzergahi");
+            Console.WriteLine();
+            var temp = cities.First;
+
+            while (temp != null)
             {
-                Console.WriteLine(s);
+                Console.WriteLine(temp.Value);
+                temp = temp.Next;
             }
+
+            Console.WriteLine();
+            Console.WriteLine("Donus Guzergahi");
+            Console.WriteLine();
+
+            temp = cities.Last;
+            while (temp != null)
+            {
+                Console.WriteLine(temp.Value);
+                temp = temp.Previous;
+            }
+
+
 
         }
     }

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{7CC7DB9F-3AE0-46BD-A185-DEE9ADA32EF9}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23FC7C4B-882F-40F0-B451-D7CD830671EC}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\ozlem goksun\\github\\codepractice\\datastructuresincsharp\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23FC7C4B-882F-40F0-B451-D7CD830671EC}|ConsoleApp5\\ConsoleApp5.csproj|C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23FC7C4B-882F-40F0-B451-D7CD830671EC}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "ConsoleApp6\\Program.cs",
               "ToolTip": "C:\\Users\\Ozlem GOKSUN\\GITHUB\\CodePractice\\DataStructuresInCsharp\\ConsoleApp6\\Program.cs*",
               "RelativeToolTip": "ConsoleApp6\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T06:25:25.604Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "ConsoleApp5\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwBkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T16:10:55.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T16:10:55.948Z"
             },
             {
               "$type": "Document",

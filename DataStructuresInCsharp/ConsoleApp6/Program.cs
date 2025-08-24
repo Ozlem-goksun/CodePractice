@@ -10,21 +10,18 @@ namespace ConsoleApp6
     {
         static void Main(string[] args)
         {
-            var charQueue = new Queue<char>();
+            var cities = new LinkedList<string>();
+            cities.AddFirst("Ordu");
+            cities.AddFirst("Trabzon");
+            cities.AddLast("Istanbul");
 
-            charQueue.Enqueue('a');
-            charQueue.Enqueue('e');
+            cities.AddAfter(cities.Find("Ordu"), "Samsun");
+            cities.AddBefore(cities.First.Next.Next, "Giresun");
+            cities.AddAfter(cities.Last.Previous, "Sinop");
 
-            foreach (char c in charQueue)
-            { 
-                Console.WriteLine(c); 
-            }
-
-            charQueue.Dequeue();
-
-            foreach (var item in charQueue)
+            foreach (string s in cities)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(s);
             }
 
         }
